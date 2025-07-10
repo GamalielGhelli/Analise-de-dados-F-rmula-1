@@ -59,3 +59,9 @@ trabalho está estruturado em 8 perguntas investigativas que exploram diferentes
 6. Distribuição de vitórias
 7. Performance em classificações e pole positions
 8. Evolução histórica do desempenho brasileiro
+
+
+## Apresentação do Projeto
+
+- Youtube:  
+  [Velocidade em números: Uma análise da participação Brasileira na Fórmula 1](https://www.youtube.com/watch?v=K3-tfFhDrDU)
