@@ -1,7 +1,6 @@
 # 📊 Análise de Dados na Fórmula 1: Pilotos Brasileiros
 
 ## Autores
--
 - **Gamaliel Ghelli**
 - **Ivan Meireles de Abreu**
 
